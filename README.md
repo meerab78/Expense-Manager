@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # expensemanager
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Expense-Manager
+>>>>>>> 608f69610b23568c6c2bcbbea219f1642a9e9184

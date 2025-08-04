@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Expense Tracker',
       theme: ThemeData(primarySwatch: Colors.teal),
-      initialRoute: 'login',
+      initialRoute: 'home',
       routes: {
         'login': (context) => const MyLogin(),
         'register': (context) => const MyRegister(),
